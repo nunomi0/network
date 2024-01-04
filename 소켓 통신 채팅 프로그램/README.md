@@ -1,4 +1,4 @@
-![image](https://github.com/nunomi0/network/assets/109198538/ae55293f-9756-4181-a251-cc12b7e80c09)# 소켓 통신 채팅 프로그램
+# 소켓 통신 채팅 프로그램
 
 ## TCP 방식으로 구현
 IP주소를 사용하여 패킷으로 변환된 데이터를 전달
