@@ -31,7 +31,7 @@ IP주소를 사용하여 패킷으로 변환된 데이터를 전달
 <br>
 
 ## 실행화면
-![image](https://github.com/nunomi0/network/assets/109198538/f694bd0f-4ea5-4dfe-a9d3-577158d6b0ea)
+![294133296-f694bd0f-4ea5-4dfe-a9d3-577158d6b0ea](https://github.com/nunomi0/network/assets/109198538/f5359eeb-d923-47c9-b0a2-73e2dc96cd02)
 <br>
 
 - HOST = 127.0.0.1
